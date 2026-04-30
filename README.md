@@ -16,7 +16,7 @@ This project is an AI-powered chatbot built using Python and Streamlit with inte
 
 ## 🌐 Live Demo
 
-👉 [https://your-app-name.streamlit.app](https://poster-ggffruam3ppehnbfdclkh5.streamlit.app/)
+👉 https://poster-6yzeyublw5w9bdbs9zo2eq-ai-chatbot.streamlit.app/
 
 ---
 
