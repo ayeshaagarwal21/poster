@@ -48,6 +48,7 @@ In the complete setup:
 
 ### 🔹 AWS + Docker Working Setup
 
+![docker](docker2.png)
 
 
 
