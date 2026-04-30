@@ -49,12 +49,14 @@ In the complete setup:
 ### 🔹 AWS + Docker Working Setup
 
 ![docker](docker 2.png)
-
-
+![ip](custom ip.png)
+![postgres](p11.png)
+![postgres](p13.png)
 
 ### 🔹 Application UI
 
-(Add your app screenshot here)
+![only docker](chat_bot.png)
+![with postgres](p1.png)
 
 ---
 
