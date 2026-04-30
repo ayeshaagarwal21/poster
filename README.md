@@ -48,10 +48,10 @@ In the complete setup:
 
 ### 🔹 AWS + Docker Working Setup
 
-![docker](docker 2.png)
-![ip](custom ip.png)
+![docker](docker_2.png)
+![ip](custom_ip.png)
 ![postgres](p11.png)
-![postgres](p13.png)
+![postgres 2](p13.png)
 
 ### 🔹 Application UI
 
